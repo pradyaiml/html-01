@@ -1,0 +1,17 @@
+h1 {
+    color: brown;
+}
+p, div {
+    color: blue;
+    background-color: greenyellow;
+    font-size: x-large;
+}
+
+#second {
+    color: red;
+}
+
+.third-para {
+    color: rgb(11, 11, 11);
+    background-color: aqua;
+}
